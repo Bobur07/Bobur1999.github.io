@@ -1,0 +1,19 @@
+h1{
+  color: Blue;
+  text-align: center;
+}
+h2{
+
+  front-family: Verdana;
+  front-size:16pt;
+  color:green;
+  front-weight: bold;
+}
+h3
+{
+  front-family:Arial;
+  color:rgb(155, 50, 60);
+}
+.greenHeader{
+  color:green;
+}
